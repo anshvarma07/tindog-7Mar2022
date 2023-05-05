@@ -70,8 +70,8 @@ a{
 
 .title-image {
     width: 45%;
-    transform: rotate(0Deg);
-    margin:70px 0 0 0;
+    transform: rotate(25Deg);
+    top:80px;
     position: absolute;
     /* bottom: 80px; */
     z-index: 0;
