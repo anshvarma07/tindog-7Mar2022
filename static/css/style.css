@@ -71,7 +71,7 @@ a{
 .title-image {
     width: 45%;
     transform: rotate(25Deg);
-    top:80px;
+    top:110px;
     position: absolute;
     /* bottom: 80px; */
     z-index: 0;
@@ -232,7 +232,8 @@ a{
         z-index: 0;
         width: 15rem;
         right: 0rem;
-        bottom: 5rem;
+        top: 0rem;
+        top :1rem;
     }
     
     .fluid1 {
@@ -262,6 +263,7 @@ a{
         width: 15rem;
         right: 0rem;
         bottom: 0rem;
+        top:0rem;
     }
 
     .pricing-row {
